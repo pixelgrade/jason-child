@@ -1,0 +1,20 @@
+/*
+ Theme Name: Jason Child
+ Theme URI: https://pixelgrade.com/demos/jason/
+ Author: Pixelgrade
+ Author URI: https://pixelgrade.com/
+ Description: Jason is a blogging tool for the adventurers of the world. Share the thoughts, photos and videos of your wanderings with ease. Enjoy the beautiful typography, the flexibility to lay out your stories with ease and the clever integration of imagery with text. All to help you relax and enjoy writing.
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain: jason
+ Domain Path: /languages/
+ Tags: blog, blue, bright, classic-menu, clean, colorful, contemporary, custom-menu, editor-style, elegant, featured-images, geometric, handcrafted, infinite-scroll, journal, lifestream, light, microformats, minimal, modern, multiple-menus, news, one-column, photography, red, responsive-layout, retro, right-sidebar, rtl-language-support, scrapbooking, seasonal, site-logo, sophisticated, sticky-post, theme-options, threaded-comments, traditional, translation-ready, travel, two-columns, vibrant, video, white
+ Template: jason
+*/
+
+/* ADD YOUR NEW CSS RULES HERE */
+
+/* This file assumes you wish to add new CSS rules that will overwrite the ones in the parent's CSS files
+If you wish however, you can copy the whole style.css file from the parent here and hack at it - see functions.php for more details.
+In that case please remember that you still need to retain the header above (replace the header of the parent style.css with the one above),
+specifically the 'Template: hive' line. */
